@@ -8,7 +8,7 @@ public class PrintAllPermutationsOfAnyString {
 	
 	public static void main(String[] args) {
 		
-		permutations("abcc", 0, 3);
+		permutations("a", 0, 0);
 		
 	}
 	
