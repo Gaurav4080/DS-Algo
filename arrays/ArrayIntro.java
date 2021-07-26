@@ -9,6 +9,10 @@ public class ArrayIntro {
 		
 		int marks[] = {2, 5, 9, 3, 6};
 		System.out.println(marks[1]);
+		
+		for(int element : marks) {
+			System.out.print(element + " ");
+		}
 
 	}
 

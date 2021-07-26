@@ -6,7 +6,7 @@ public class ZeroSumSubArrayUsingSets {
 	
 	public static void main(String[] args) {
 	
-	int[] a = {2, 3, -4, -2};
+	int[] a = {2, 1, 3, -4, -2};
 	int k = 6;
 	boolean found = false;
 	
